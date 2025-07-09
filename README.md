@@ -2,7 +2,7 @@
 Analisis data penjualan retail tahun 2019 menggunakan Python. Fokus pada segmentasi produk, retensi pelanggan, dan strategi bisnis.
 # 📊 Analisis Data Penjualan Retail
 
-Halo! Saya Brian, seorang Data Analyst pemula yang antusias dalam mengubah data mentah menjadi insight bisnis yang bermanfaat.
+Halo! Saya Yulman Ndraha, seorang Data Analyst pemula yang antusias dalam mengubah data mentah menjadi insight bisnis yang bermanfaat.
 
 Proyek ini menganalisis data transaksi penjualan retail tahun 2019 menggunakan Python, dengan fokus pada perilaku pelanggan, performa produk, dan strategi bisnis.
 
